@@ -12,7 +12,7 @@ export default function Home() {
     <main className="">
       <div className="bg-base-200 lg:h-screen py-20 text-center lg:flex lg:text-start flex-row-reverse p-5 sm:p-20 items-center">
         <div className="p-5">
-          <img src="/me.jpg" className="mx-auto rounded-full shadow-2xl border-4 border-primary" alt='LowScarlet' />
+          <img src="/me.jpg" className="md:h-80 md:w-80 mx-auto rounded-full shadow-2xl border-4 border-primary" alt='LowScarlet' />
         </div>
         <div className="grow">
           <p>Teknik Informatika</p>
